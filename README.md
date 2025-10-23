@@ -9,11 +9,10 @@
 ---
 
 ### 🚀 About Me
-- 💼 Lead Frontend & React Native Developer @ Colly Technologies  
 - 🎓 B.Tech in Mechanical Engineering, PEC Chandigarh (2023–27)  
 - 🔭 Working on: **EaseDrobe**, **Melodate**, **Pacman AI**  
 - 🌱 Exploring: **Machine Learning**, **LangChain**, **Next.js**, **Firebase**  
-- ⚡ Fun: Football • Foosball • Road Trips  
+- ⚡ Fun: Football • Foosball • Road Trips • Anime  
 
 ---
 
