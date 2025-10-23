@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
+**Software engineer • frontend & full-stack • tinkerer**
 
-<!--
-**AyushKashyapII/AyushKashyapII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Working on: Vroom Vroom, Blogify
+- 🌱 Learning: Machine learning & React Native
+- ⚡ Fun: Football, foosball, trips
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech & Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR-PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2)](https://twitter.com/yourhandle)
+
+---
+
+## Latest blog post
+![Blog Post](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/main/.github/latest-blog.png)
+
+---
+> Quote of the day: _"Build things that matter."_
+
