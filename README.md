@@ -83,15 +83,5 @@
 > _"Strive not to be a success, but rather to be of value."_  
 > — Albert Einstein
 
-<!--UPDATED_AT-->
-_Last updated: ..._
-<!--UPDATED_AT_END-->
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyushKashaypII&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushKashaypII&theme=tokyonight&no-frame=true&row=1" alt="trophies"/>
-</p>
 
 <p align="center">⭐️ From <a href="https://github.com/AyushKashaypII">Ayush Kashyap</a></p>
