@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech in Mechanical Engineering, PEC Chandigarh (2023–27)  
+- 🎓 B.Tech in Mechanical Engineering, PEC Chandigarh  
 - 🔭 Working on: **EaseDrobe**, **Melodate**, **Pacman AI**  
 - 🌱 Exploring: **Machine Learning**, **LangChain**, **Next.js**, **Firebase**  
 - ⚡ Fun: Football • Foosball • Road Trips • Anime  
