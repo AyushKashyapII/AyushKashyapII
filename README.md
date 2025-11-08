@@ -79,8 +79,8 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"Strive not to be a success, but rather to be of value."_  
-> — Albert Einstein
+> _"I have a dream...Remote and Web3"_  
+> — Martini
 
 
 <p align="center">⭐️ From <a href="https://github.com/AyushKashaypII">Ayush Kashyap</a></p>
