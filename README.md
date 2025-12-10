@@ -82,5 +82,3 @@
 > _"I have a dream...Remote and Web3"_  
 > — Martini
 
-
-<p align="center">⭐️ From <a href="https://github.com/AyushKashaypII">Ayush Kashyap</a></p>
