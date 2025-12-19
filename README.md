@@ -78,6 +78,6 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"I have a dream...Remote and Web3"_  
-> — Martini
+> _"Weeks of coding can save you hours of planning."_  
+> — Me
 
