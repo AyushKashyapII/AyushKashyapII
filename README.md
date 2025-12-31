@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ayush Kashyap</h1>
 <p align="center">
   <b>Software Engineer • Frontend & Full Stack Developer • ML Enthusiast</b><br/>
-  <a href="mailto:ayushkashyap0211@gmail.com">ayushkashyap0211@gmail.com</a> •
+  <a href="mailto:kashyap11ayush02@gmail.com@gmail.com">kashyap11ayush02@gmail.com</a> •
   <a href="https://ayush-kashyap.vercel.app" target="_blank">Portfolio</a> •
   <a href="https://linkedin.com/in/ayush-kashyap" target="_blank">LinkedIn</a>
 </p>
