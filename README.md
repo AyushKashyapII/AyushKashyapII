@@ -78,6 +78,6 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"Weeks of coding can save you hours of planning."_  
+> _"Happy New Year oh Captain O! Captain!!!."_  
 > — Me
 
