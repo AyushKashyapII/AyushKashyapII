@@ -77,6 +77,6 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"Happy New Year oh Captain O! Captain!!!."_  
+> _"Carpe diem."_  
 > — Me
 
