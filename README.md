@@ -77,6 +77,6 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"Carpe diem."_  
+> _"Get me US remote."_  
 > — Me
 
