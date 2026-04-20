@@ -64,7 +64,7 @@
 ### 🧩 Featured Projects
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [EaseDrobe](https://github.com/AyushKashyapII/Easedrobe) | Fashion-tech wardrobe platform with BLIP tagging & Supabase auth | React, Tailwind, Supabase |
+| [Chess Engine](https://github.com/AyushKashyapII/Chess) | Built Chess Engine in Go | Go, WASM |
 | [Melodate](https://github.com/Yash-210604/MeloDate) | Music-based matchmaking platform with Spotify API integration | React, Redis, Supabase |
 | [Pacman AI](https://github.com/AyushKashyapII/Pacman) | Reinforcement Learning (Q-Learning) Pacman Agent | Python, Pygame, RL |
 
