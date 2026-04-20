@@ -4,16 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Explorer;Building+Impactful+Projects" />
 </p>
 
-<p align="center">
-  <b>Software Engineer • Frontend & Full Stack Developer • ML Enthusiast</b><br/>
-  <a href="mailto:kashyap11ayush02@gmail.com">kashyap11ayush02@gmail.com</a> •
-  <a href="https://ayush-kashyap.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/ayush-kashyap" target="_blank">LinkedIn</a>
-</p>
-
 ---
 
-### 🕷️ Friendly Neighborhood Dev
+<table>
+<tr>
+<td width="50%">
 
 <pre>
       __                                                      
@@ -54,13 +49,29 @@
                  `-'                                          
 </pre>
 
----
+</td>
+<td width="50%">
 
 ### 🚀 About Me
+
+<b>Software Engineer • Frontend & Full Stack Developer • ML Enthusiast</b>
+
+<br/>
+
+📧 <a href="mailto:kashyap11ayush02@gmail.com">kashyap11ayush02@gmail.com</a>  
+🌐 <a href="https://ayush-kashyap.vercel.app" target="_blank">Portfolio</a>  
+💼 <a href="https://linkedin.com/in/ayush-kashyap" target="_blank">LinkedIn</a>
+
+<br/>
+
 - 🎓 B.Tech in Mechanical Engineering, PEC Chandigarh  
-- 🔭 Working on: **Constructure AI**  
-- 🌱 Exploring: **Machine Learning**, **LangChain**, **Next.js**, **Firebase**  
+- 🔭 Working on: <b>Constructure AI</b>  
+- 🌱 Exploring: <b>Machine Learning, LangChain, Next.js, Firebase</b>  
 - ⚡ Fun: Football • Road Trips • Anime  
+
+</td>
+</tr>
+</table>
 
 ---
 
