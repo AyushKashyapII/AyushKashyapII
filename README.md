@@ -13,6 +13,49 @@
 
 ---
 
+### 🕷️ Friendly Neighborhood Dev
+
+<pre>
+      __                                                      
+     /  l                                                     
+   .'   :               __.....__..._  ____                   
+  /  /   \          _.-"        "-.  ""    "-.                
+ (`-: .---:    .--.'          _....J.         "-.             
+  """y     \,.'    \  __..--""       `+""--.     `.           
+    :     .'/    .-"""-. _.            `.   "-.    `._.._     
+    ;  _.'.'  .-j       `.               \     "-.   "-._`.   
+    :    / .-" :          \  `-.          `-      "-.      \  
+     ;  /.'    ;          :;               ."        \      `,
+     :_:/      ::\        ;:     (        /   .-"   .')      ;
+       ;-"      ; "-.    /  ;           .^. .'    .' /    .-" 
+      /     .-  :    `. '.  : .- / __.-j.'.'   .-"  /.---'    
+     /  /      `,\.  .'   "":'  /-"   .'       \__.'          
+    :  :         ,\""       ; .'    .'      .-""              
+   _J  ;         ; `.      /.'    _/    \.-"                  
+  /  "-:        /"--.b-..-'     .'       ;                    
+ /     /  ""-..'            .--'.-'/  ,  :                    
+:`.   :     / : bug         `-i" ,',_:  _ \                   
+:  \  '._  :__;             .'.-"; ; ; j `.l                  
+ \  \          "-._         `"  :_/ :_/                       
+  `.;\             "-._                                       
+    :_"-._             "-.                                    
+      `.  l "-.     )     `.                                  
+        ""^--""^-. :        \                                 
+                  ";         \                                
+                  :           `._                             
+                  ; /    \ `._   ""---.                       
+                 / /   _      `.--.__.'                       
+                : :   / ;  :".  \                             
+                ; ;  :  :  ;  `. `.                           
+               /  ;  :   ; :    `. `.                         
+              /  /:  ;   :  ;     "-'                         
+             :_.' ;  ;    ; :                                 
+                 /  /     :_l                                 
+                 `-'                                          
+</pre>
+
+---
+
 ### 🚀 About Me
 - 🎓 B.Tech in Mechanical Engineering, PEC Chandigarh  
 - 🔭 Working on: **Constructure AI**  
@@ -64,7 +107,7 @@
 ### 🧩 Featured Projects
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [Chess Engine](https://github.com/AyushKashyapII/Chess) | Built Chess Engine in Go | Go, WASM |
+| [Chess Engine](https://github.com/AyushKashyapII/Chess) | Built Chess Engine in Go | Chess, Web Assembly |
 | [Melodate](https://github.com/Yash-210604/MeloDate) | Music-based matchmaking platform with Spotify API integration | React, Redis, Supabase |
 | [Pacman AI](https://github.com/AyushKashyapII/Pacman) | Reinforcement Learning (Q-Learning) Pacman Agent | Python, Pygame, RL |
 
