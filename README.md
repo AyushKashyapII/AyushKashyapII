@@ -64,7 +64,7 @@
 ### 🧩 Featured Projects
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [Chess Engine](https://github.com/AyushKashyapII/Chess) | Built Chess Engine in Go | Chess, Web Assembly |
+| [Chess Engine](https://github.com/AyushKashyapII/Chess) | Built Chess Engine in Go | GoLang, Web Assembly |
 | [Melodate](https://github.com/Yash-210604/MeloDate) | Music-based matchmaking platform with Spotify API integration | React, Redis, Supabase |
 | [Pacman AI](https://github.com/AyushKashyapII/Pacman) | Reinforcement Learning (Q-Learning) Pacman Agent | Python, Pygame, RL |
 
