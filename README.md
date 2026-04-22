@@ -71,5 +71,5 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"Get me US remote."_  
+> _"I m getting somewhere."_  
 > — Me
