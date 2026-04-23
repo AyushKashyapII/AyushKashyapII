@@ -71,5 +71,5 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"I m getting somewhere."_  
+> _"I m getting somewhere.Or am I?"_  
 > — Me
