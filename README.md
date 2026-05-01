@@ -7,7 +7,7 @@
 <p align="center">
   <b>Software Engineer • Frontend & Full Stack Developer • ML Enthusiast</b><br/>
   <a href="mailto:kashyap11ayush02@gmail.com">kashyap11ayush02@gmail.com</a> •
-  <a href="https://ayush-kashyap.vercel.app" target="_blank">Portfolio</a> •
+  <a href="https://ayushkashyap.me" target="_blank">Portfolio</a> •
   <a href="https://linkedin.com/in/ayush-kashyap" target="_blank">LinkedIn</a> •
   <a href="https://leetcode.com/u/ayush_II02/" target="_blank">LeetCode</a>
 </p>
