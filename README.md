@@ -76,5 +76,5 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"I’m getting somewhere. Or am I?"_  
+> _"Building a SAAS"_  
 > — Me
