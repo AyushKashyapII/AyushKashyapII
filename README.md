@@ -8,7 +8,8 @@
   <b>Software Engineer • Frontend & Full Stack Developer • ML Enthusiast</b><br/>
   <a href="mailto:kashyap11ayush02@gmail.com">kashyap11ayush02@gmail.com</a> •
   <a href="https://ayush-kashyap.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/ayush-kashyap" target="_blank">LinkedIn</a>
+  <a href="https://linkedin.com/in/ayush-kashyap" target="_blank">LinkedIn</a> •
+  <a href="https://leetcode.com/u/ayush_II02/" target="_blank">LeetCode</a>
 </p>
 
 ---
@@ -46,10 +47,6 @@
 ---
 
 ### 📊 GitHub Stats
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushKashyapII&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKashyapII&theme=tokyonight&hide_border=true" width="48%" />
-</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKashyapII&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
@@ -57,6 +54,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKashyapII&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ayush_II02?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
@@ -71,5 +76,5 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"I m getting somewhere.Or am I?"_  
+> _"I’m getting somewhere. Or am I?"_  
 > — Me
