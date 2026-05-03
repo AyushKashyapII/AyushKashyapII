@@ -26,36 +26,38 @@
 
 #### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go&theme=dark&perline=6" />
 </p>
 
 #### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark&perline=6" />
 </p>
 
 #### 🧠 AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark&perline=6" />
 </p>
 
 #### 🛠 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,vercel,docker,redis,git,postman&perline=6" />
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,docker,redis,git,postman&theme=dark&perline=6" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushKashyapII&theme=dark&border_radius=14.7&short_numbers=true" alt="GitHub Streak" /></a>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="50%" />
+  <img src="https://streak-stats.demolab.com?user=AyushKashyapII&theme=tokyonight&hide_border=true&border_radius=14.7&short_numbers=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKashyapII&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKashyapII&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKashyapII&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -63,12 +65,13 @@
 ### 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ayush_II02?theme=dark&font=Nunito&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/ayush_II02?theme=dark&font=Nunito&ext=contest" width="70%" />
 </p>
 
 ---
 
 ### 🧩 Featured Projects
+
 | Project | Description | Stack |
 |--------|-------------|--------|
 | [Chess Engine](https://github.com/AyushKashyapII/Chess) | Built Chess Engine in Go | GoLang, Web Assembly |
@@ -78,5 +81,5 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"Building a SAAS"_  
+> _"Building a SaaS."_  
 > — Me
