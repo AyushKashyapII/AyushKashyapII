@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKashyapII&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKashyapII&theme=tokyonight" />
 </p>
 
 <p align="center">
