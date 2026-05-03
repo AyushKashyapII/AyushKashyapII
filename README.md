@@ -48,6 +48,8 @@
 
 ### 📊 GitHub Stats
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AyushKashyapII&theme=dark&border_radius=14.7&short_numbers=true" alt="GitHub Streak" /></a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="50%" />
 </p>
