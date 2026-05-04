@@ -81,5 +81,5 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"Building a SaaS."_  
+> _"DSA and System Design."_  
 > — Me
