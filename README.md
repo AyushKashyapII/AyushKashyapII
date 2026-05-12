@@ -81,5 +81,5 @@
 ---
 
 ### 🧠 Quote of the Day
-> _"DSA and System Design."_  
+> _"Why does it get so hectic sometimes?."_  
 > — Me
