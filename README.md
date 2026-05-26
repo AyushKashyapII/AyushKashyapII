@@ -46,22 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyushKashyapII&theme=tokyonight&hide_border=true&border_radius=14.7&short_numbers=true" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKashyapII&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKashyapII&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
----
-
 ### 🏆 LeetCode Stats
 
 <p align="center">
