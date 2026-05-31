@@ -1,69 +1,99 @@
-<h1 align="center">Hey 👋, I'm Ayush Kashyap</h1>
+```text
+    _               _       _
+   / \   _   _ _   _| |__   | | __
+  / _ \ | | | | | | | '_ \  | |/ /
+ / ___ \| |_| | |_| | |_) | |   <
+/_/   \_\\__, |\__,_|_.__/  |_|\_\
+         |___/
+
+Software Engineer • AI Systems • Backend • Full Stack
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Explorer;Building+Impactful+Projects" />
-</p>
-
-<p align="center">
-  <b>Software Engineer • Frontend & Full Stack Developer • ML Enthusiast</b><br/>
-  <a href="mailto:kashyap11ayush02@gmail.com">kashyap11ayush02@gmail.com</a> •
-  <a href="https://ayushkashyap.me" target="_blank">Portfolio</a> •
-  <a href="https://linkedin.com/in/ayush-kashyap" target="_blank">LinkedIn</a> •
-  <a href="https://leetcode.com/u/ayush_II02/" target="_blank">LeetCode</a>
-</p>
-
----
-
-### 🚀 About Me
-- 🎓 B.Tech in Mechanical Engineering, PEC Chandigarh  
-- 🔭 Working on: **Constructure AI**  
-- 🌱 Exploring: **Machine Learning**, **LangChain**, **Next.js**, **Firebase**  
-- ⚡ Fun: Football • Road Trips • Anime  
-
----
-
-### 🧰 Tech Stack
-
-#### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,go&theme=dark&perline=6" />
-</p>
-
-#### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark&perline=6" />
-</p>
-
-#### 🧠 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python&theme=dark&perline=6" />
-</p>
-
-#### 🛠 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,vercel,docker,redis,git,postman&theme=dark&perline=6" />
+  <a href="https://ayushkashyap.me">Portfolio</a> •
+  <a href="https://linkedin.com/in/ayush-kashyap">LinkedIn</a> •
+  <a href="mailto:kashyap11ayush02@gmail.com">Email</a> •
+  <a href="https://leetcode.com/u/ayush_II02/">LeetCode</a>
 </p>
 
 ---
 
-### 🏆 LeetCode Stats
+## About
+
+Currently building AI systems at **Constructure AI**.
+
+Interested in:
+
+- Large Language Models
+- Retrieval Systems (RAG)
+- Backend Infrastructure
+- Reinforcement Learning
+- Distributed Systems
+- Performance Engineering
+
+---
+
+## Tech
+
+```text
+Languages
+├── Go
+├── Python
+├── TypeScript
+├── JavaScript
+└── C++
+
+Backend
+├── Node.js
+├── Express
+├── PostgreSQL
+├── Redis
+└── Firebase
+
+AI
+├── LangChain
+├── TensorFlow
+├── Reinforcement Learning
+└── RAG Systems
+
+Infrastructure
+├── Docker
+├── Vercel
+├── Git
+└── Linux
+```
+
+---
+
+## Selected Work
+
+### ♟ Chess Engine
+Go + WebAssembly chess engine with move generation,
+evaluation engine and browser execution.
+
+### 👾 Pacman RL Agent
+Q-Learning based reinforcement learning agent trained
+to solve dynamic Pacman environments.
+
+### 🎵 MeloDate
+Music-driven matchmaking platform integrating Spotify,
+real-time recommendations and social matching.
+
+---
+
+## Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ayush_II02?theme=dark&font=Nunito&ext=contest" width="70%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushKashyapII&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKashyapII&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-### 🧩 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|--------|
-| [Chess Engine](https://github.com/AyushKashyapII/Chess) | Built Chess Engine in Go | GoLang, Web Assembly |
-| [Melodate](https://github.com/Yash-210604/MeloDate) | Music-based matchmaking platform with Spotify API integration | React, Redis, Supabase |
-| [Pacman AI](https://github.com/AyushKashyapII/Pacman) | Reinforcement Learning (Q-Learning) Pacman Agent | Python, Pygame, RL |
-
----
-
-### 🧠 Quote of the Day
-> _"Why does it get so hectic sometimes?."_  
-> — Me
+```cpp
+while(alive) {
+    learn();
+    build();
+    ship();
+}
+```
