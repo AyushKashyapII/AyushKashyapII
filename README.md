@@ -7,14 +7,10 @@
 # 𝐀𝐲𝐮𝐬𝐡 𝐊𝐚𝐬𝐡𝐲𝐚𝐩
 
 <sub>Software Engineer • AI Systems • Full Stack</sub>
-
-<br><br>
-
+<br>
 Building intelligent products, reinforcement learning systems,<br>
 and scalable backend infrastructure.
-
-<br><br>
-
+<br>
 <p align="center">
   <a href="https://ayushkashyap.me">
     <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" height="40" />
