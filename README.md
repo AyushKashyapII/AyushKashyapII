@@ -1,20 +1,50 @@
-<p align="center">
-  <img src="./header.gif" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Ayush Kashyap</h1>
+<img src="./assets/header.gif" width="100%" />
 
-<p align="center">
-  Software Engineer • AI Systems • Full Stack
-</p>
+<br>
 
-<p align="center">
-  Building intelligent products, reinforcement learning systems, and high-performance backend infrastructure.
-</p>
+# AYUSH KASHYAP
 
-<p align="center">
-  <a href="https://ayushkashyap.me">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ayush-kashyap-dev/">LinkedIn</a> •
-  <a href="mailto:kashyap11ayush02@gmail.com">Email</a> •
-  <a href="https://leetcode.com/u/ayush_II02/">LeetCode</a>
-</p>
+### Software Engineer • AI Systems • Full Stack
+
+Building intelligent products, reinforcement learning systems, and scalable backend infrastructure.
+
+<br>
+
+<a href="https://ayushkashyap.me">
+  <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-kashyap-dev/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:kashyap11ayush02@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/ayush_II02/">
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
+</a>
+
+</div>
+
+---
+
+```yaml
+name: Ayush Kashyap
+
+current:
+  - Software Engineer @ Constructure AI
+
+focus:
+  - AI Systems
+  - RAG
+  - Reinforcement Learning
+  - Backend Engineering
+
+building:
+  - Intelligent Agents
+  - Retrieval Systems
+  - Scalable Products
