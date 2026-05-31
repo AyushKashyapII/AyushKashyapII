@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.gif" width="100%" />
+<img src="./assests/header.gif" width="100%" />
 
 <br>
 
@@ -30,21 +30,3 @@ Building intelligent products, reinforcement learning systems, and scalable back
 
 </div>
 
----
-
-```yaml
-name: Ayush Kashyap
-
-current:
-  - Software Engineer @ Constructure AI
-
-focus:
-  - AI Systems
-  - RAG
-  - Reinforcement Learning
-  - Backend Engineering
-
-building:
-  - Intelligent Agents
-  - Retrieval Systems
-  - Scalable Products
