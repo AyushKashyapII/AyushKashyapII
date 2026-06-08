@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assests/git2.gif" width="92%" />
+<img src="./assests/cowboy.gif" width="92%" />
 
 <br><br>
 
