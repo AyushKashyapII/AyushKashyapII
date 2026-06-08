@@ -10,6 +10,7 @@
 Building intelligent products, reinforcement learning systems,<br>
 and scalable backend infrastructure.
 <br>
+<br>
 <p align="center">
   <a href="https://ayushkashyap.me">
     <img src="https://cdn.simpleicons.org/netflix/E50914" height="42"/>
