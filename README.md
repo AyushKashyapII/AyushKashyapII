@@ -4,7 +4,7 @@
 
 <br><br>
 
-# 𝐀𝐲𝐮𝐬𝐡 𝐊𝐚𝐬𝐡𝐲𝐚𝐩
+# 𝐀𝐲𝐮𝐬𝐡 𝐊𝐚𝐬𝐡𝐲𝐚𝐩 - GOAT
 <!-- <sub>Software Engineer • AI Systems • Full Stack</sub> -->
 <br>
 Building intelligent products, distributed systems,<br>
