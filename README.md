@@ -4,13 +4,18 @@
 
 <br><br>
 
-# 𝐀𝐲𝐮𝐬𝐡 𝐊𝐚𝐬𝐡𝐲𝐚𝐩 
+# 𝐀𝐲𝐮𝐬𝐡 𝐊𝐚𝐬𝐡𝐲𝐚𝐩
 
 <br>
 Building intelligent products, distributed systems,<br>
 and scalable backend infrastructure.
+<br><br>
+
+> 🚀 **Currently contributing to:**  
+> **Ray (Anyscale)** • **Milvus**
+
 <br>
-<br>
+
 <p align="center">
   <a href="https://ayushkashyap.me">
     <img src="https://cdn.simpleicons.org/netflix/E50914" height="42"/>
