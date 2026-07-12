@@ -11,9 +11,11 @@ Building intelligent products, distributed systems,<br>
 and scalable backend infrastructure.
 <br><br>
 
-> 🚀 **Currently contributing to:**  
-> **Ray (Anyscale)** • **Milvus**
-
+<p align="center">
+🚀 <b>Currently contributing to</b><br>
+<a href="https://github.com/ray-project/ray"><b>Ray (Anyscale)</b></a> •
+<a href="https://github.com/milvus-io/milvus"><b>Milvus</b></a>
+</p>
 <br>
 
 <p align="center">
