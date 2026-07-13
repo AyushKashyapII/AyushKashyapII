@@ -12,7 +12,7 @@ and scalable backend infrastructure.
 <br><br>
 
 <!-- <p align="center">
-🚀 <b>Currently contributing to</b><br>
+<b>Currently contributing to</b><br>
 <a href="https://github.com/ray-project/ray"><b>Ray (Anyscale)</b></a> 
 <a href="https://github.com/milvus-io/milvus"><b>Milvus</b></a>
 <trying new things for no reason>
