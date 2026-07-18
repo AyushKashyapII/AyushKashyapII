@@ -11,8 +11,8 @@ Building intelligent products, distributed systems,<br>
 and scalable backend infrastructure.
 <br><br>
 
-<!-- <p align="center">
-<a href="https://github.com/ray-project/ray"><b>Ray (Anyscale)</b></a> 
+<!-- <p align=" center ">
+<a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
 <a href="https://github.com/milvus-io/milvus"><b>Milvus</b></a>
 </p> -->
 <br>
