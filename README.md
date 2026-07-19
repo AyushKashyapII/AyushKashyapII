@@ -14,6 +14,7 @@ and scalable backend infrastructure.
 <!-- <p align=" center ">
 <a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
 <a href="https://github.com/milvus-io/milvus"><b>Milvus</b></a>
+wont be doing much today
 </p> -->
 <br>
 
