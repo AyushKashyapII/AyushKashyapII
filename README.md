@@ -15,7 +15,7 @@ and scalable backend infrastructure.
 <a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
 <a href="https://github.com/milvus-io/milvus"><b>Milvus</b></a>
 going to learn some ai engineering stuff
-from Harkirat singh leates tech video 
+from Harkirat singh
 </p> -->
 <br>
 
