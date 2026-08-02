@@ -13,8 +13,7 @@ and scalable backend infrastructure.
 
 <!-- <p align=" center ">
 <a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
-<a href="https://github.com/milvus-io/milvus"><b>Milvus</b></a>
-</p> -->
+<a href="https://github.com/milvus-io/milvus"><b>Milvus</b></a> -->
 <br>
 
 <p align="center">
