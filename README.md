@@ -11,7 +11,7 @@ Building intelligent products, distributed systems,<br>
 and scalable backend infrastructure.
 <br><br>
 
-<!-- centr
+<!-- 
 <a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
  <a hre> -->
 <br>
