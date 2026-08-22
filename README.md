@@ -14,6 +14,7 @@ and scalable backend infrastructure.
 <!-- 
 <a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
 started reading inference engineering
+hardware read today
  <a hre> -->
 <br>
 
