@@ -16,6 +16,7 @@ and scalable backend infrastructure.
 started reading inference engineering
 hardware read today
 read CUDA software
+done with techiniques
  <a hre> -->
 <br>
 
