@@ -18,6 +18,7 @@ hardware read today
 read CUDA software
 done with techiniques
 VLLM code review
+published my first medium blog
  <a hre> -->
 <br>
 
