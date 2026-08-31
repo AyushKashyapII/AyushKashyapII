@@ -19,6 +19,7 @@ read CUDA software
 done with techiniques
 VLLM code review
 published my first medium blog
+in the backgound CUDA kernels is just linear algebra and co-ordinate system
  <a hre> -->
 <br>
 
