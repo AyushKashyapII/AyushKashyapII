@@ -19,9 +19,7 @@ read CUDA software
 done with techiniques
 VLLM code review
 published my first medium blog
-in the backgound CUDA kernels is just linear algebra and co-ordinate system
-CUDA kernel is nto required for the job 
-complete the design of the agent 
+serach bar system design doen today
  <a hre> -->
 <br>
 
