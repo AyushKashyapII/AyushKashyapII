@@ -14,10 +14,6 @@ and scalable backend infrastructure.
 <!-- 
 <a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
 started reading inference engineering
-hardware read today
-read CUDA software
-done with techiniques
-VLLM code review
 published my first medium blog
 serach bar system design doen today
  <a hre> -->
