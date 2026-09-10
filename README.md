@@ -16,7 +16,6 @@ and scalable backend infrastructure.
 started reading inference engineering
 published my first medium blog
 serach bar system design doen today
-did basic design
  <a hre> -->
 <br>
 
