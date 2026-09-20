@@ -12,11 +12,7 @@ and scalable backend infrastructure.
 <br><br>
 
 <!-- 
-<a href="https://github.com/ray-project/ray"><b> Ray (Anyscale)</b></a> 
-started reading inference engineering
-published my first medium blog
-serach bar system design doen today
-vLLM study tom
+
  <a hre> -->
 <br>
 
