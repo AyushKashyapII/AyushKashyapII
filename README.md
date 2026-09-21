@@ -53,7 +53,7 @@ ites the new day and new life
 
 <table align="center">
   <tr>
-    <td><strong>Ray</strong><br/><sub>ray-project/ray</sub></td>
+    <td><strong>Ray</strong><br/></td>
     <td>
       Patched a critical distributed systems bug in Ray Core's C++ OOM killer — <code>TimeBasedWorkerKillingPolicy</code> was killing the <code>ServeController</code> under memory pressure, causing an infinite crash loop. Plumbed an <code>is_system_actor</code> guard across protobuf → C++ raylet → Cython → Python, with cross-boundary unit tests.<br/><br/>
       <!-- <a href="https://github.com/ray-project/ray/pull/63952">PR #63952</a> · <a href="https://github.com/ray-project/ray/pull/64546">PR #64546</a> -->  
@@ -61,7 +61,7 @@ ites the new day and new life
     </td>
   </tr>
   <tr>
-    <td><strong>Milvus</strong><br/><sub>milvus-io/milvus</sub></td>
+    <td><strong>Milvus</strong><br/></td>
     <td>
       Implemented a new Decimal scalar field type end-to-end — protobuf wire format, Go schema parser, C++ segcore storage/indexing/query execution, and filter expression arithmetic. Also extended the filter expression engine to support bitwise AND/OR/XOR across the full pipeline.<br/><br/>
       <a href="https://github.com/milvus-io/milvus/pull/51051">PR #51051</a> · <a href="https://github.com/milvus-io/milvus/pull/50666">PR #50666</a> · <a href="https://github.com/milvus-io/milvus/pull/51636">PR #51636</a>
