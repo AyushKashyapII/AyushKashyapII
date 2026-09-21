@@ -56,7 +56,8 @@ ites the new day and new life
     <td><strong>Ray</strong><br/><sub>ray-project/ray</sub></td>
     <td>
       Patched a critical distributed systems bug in Ray Core's C++ OOM killer — <code>TimeBasedWorkerKillingPolicy</code> was killing the <code>ServeController</code> under memory pressure, causing an infinite crash loop. Plumbed an <code>is_system_actor</code> guard across protobuf → C++ raylet → Cython → Python, with cross-boundary unit tests.<br/><br/>
-      <!-- <a href="https://github.com/ray-project/ray/pull/63952">PR #63952</a> · <a href="https://github.com/ray-project/ray/pull/64546">PR #64546</a> --> <a href="https://github.com/ray-project/ray/pull/64546">PR #64546</a>
+      <!-- <a href="https://github.com/ray-project/ray/pull/63952">PR #63952</a> · <a href="https://github.com/ray-project/ray/pull/64546">PR #64546</a> -->  
+     <a href="https://github.com/ray-project/ray/pull/64546">PR #64546</a>
     </td>
   </tr>
   <tr>
