@@ -12,7 +12,7 @@ and scalable backend infrastructure.
 <br><br>
 
 <!-- 
-ites the new day and new life
+ites the new day and 
  <a hre> -->
 <br>
 
