@@ -12,7 +12,6 @@ and scalable backend infrastructure.
 <br><br>
 
 <!-- 
-fcked up yesrtaday
  <a hre> -->
 <br>
 
