@@ -13,7 +13,7 @@ and scalable backend infrastructure.
 
 <!-- 
 Zomato eternal is the only goal
-
+pratcisng DSA everyday 
  <a hre> -->
 <br>
 
