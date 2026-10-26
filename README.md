@@ -12,8 +12,7 @@ and scalable backend infrastructure.
 <br><br>
 
 <!-- 
-zomato did not happen
-life goes on
+
  <a hre> -->
 <br>
 
