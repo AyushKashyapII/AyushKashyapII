@@ -14,7 +14,6 @@ and scalable backend infrastructure.
 <!-- 
 will probably restart with 2026 tl.md
 fuck it we ball
-DR today
 reaidnf substacks and getting into it
  <a hre> -->
 <br>
