@@ -13,6 +13,8 @@ and scalable backend infrastructure.
 
 <!-- 
 fcuk collega and assignments
+needing some coping mechanism 
+
 getting back to opensource
  <a hre> -->
 <br>
