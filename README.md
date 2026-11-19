@@ -20,7 +20,7 @@ getting back to opensource
 <br>
 
 <p align="center">
-  <a href="https://ayushkashyap.me">
+  <a href="https://ayushkashyap.vercel.app">
     <img src="https://cdn.simpleicons.org/netflix/E50914" height="42"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
